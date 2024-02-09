@@ -8,7 +8,7 @@ I'm @Hitesh-Sisara, and I'm a Full Stack Developer with a strong passion for lea
 
 In addition to being a Full Stack Developer, I'm also exploring a variety of other topics to broaden my horizons. My interests include web development, artificial intelligence and more!
 
-Feel free to reach out to me at vedgupta@protonmail.com if you'd like to connect or collaborate.
+Feel free to reach out to me at hitesh.dev@sisara.in if you'd like to connect or collaborate.
 
 ```python
 #!/usr/bin/env python3
