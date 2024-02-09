@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Hitesh-Sisara/">
-    <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=17&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Hello there! 👋;I'm @innovatorved;Full Stack Developer | MERN Stack Developer | React Developer | Python Developer;" alt="Typing SVG" />
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+%40Hitesh-Sisara;Full+stack+MERN+%26+Flutter+Developer;Full+Stack+Developer+%7C+MERN+Stack+Developer+%7C+React+Developer+%7C+Flutter+Developer)](https://git.io/typing-svg)
 </a>
 </p>
 I'm @Hitesh-Sisara, and I'm a Full Stack Developer with a strong passion for learning new things. I believe that the world of technology is constantly evolving, and I'm always striving to expand my knowledge and skills.
