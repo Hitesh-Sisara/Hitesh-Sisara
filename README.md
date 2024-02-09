@@ -36,3 +36,6 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
 
 <img height="70px" src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,javascript,typescript,supabase,python,bash,flask,git,github,graphql,aws,gcp,cloudflare,docker,firebase,githubactions,go,mongodb,mysql,planetscale,prisma,tailwind,vscode" />
 
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@kom_256-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hitesh_sisara)](https://twitter.com/hitesh_sisara) [![Linkedin Badge](https://img.shields.io/badge/-ulisesgascon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hitesh-sisara-59354a1b4/)](https://www.linkedin.com/in/hitesh-sisara-59354a1b4/) 
