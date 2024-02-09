@@ -46,7 +46,7 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
 
 <a href="https://twitter.com/hitesh_sisara">
 
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhitesh_sisara">
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhitesh-sisara-59354a1b4%2F&style=social&logo=Linkedin&logoColor=blue&label=Hitesh%20Sisara&labelColor=blue">
 
 </a>
 
