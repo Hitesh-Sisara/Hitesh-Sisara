@@ -29,7 +29,7 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
 ```
 
 <details>
-  <summary>:zap: Hitesh-Sisara GitHub Stats & Language used</summary>
+  <summary>:zap: Hitesh-Sisara GitHub Stats</summary>
   <br>
   <img align="left" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hitesh-Sisara&show_icons=true&theme=cobalt&hide_border=true" /><br>
 </details>
