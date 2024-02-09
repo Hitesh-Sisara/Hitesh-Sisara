@@ -38,6 +38,6 @@ if res.stderr != "" : print("stderr:", res.stderr)	# Error
 
 
 
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhitesh_sisara&style=social&logo=x&logoColor=black&label=%40Hitesh_Sisara&labelColor=black&link=https%3A%2F%2Ftwitter.com%2Fhitesh_sisara">
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhitesh_sisara&style=social&logo=x&logoColor=black&label=%40Hitesh_Sisara&labelColor=black">
 
 
