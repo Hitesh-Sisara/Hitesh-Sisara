@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Hitesh-Sisara/">
-     <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=17&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Hello there! 👋;I'm @Hitesh-Sisara;GO, FLutter, React, Node Developer alt="Typing SVG" />
+     <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=17&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Hello there! 👋;I'm @Hitesh-Sisara;Go, FLutter, React, Node Developer alt="Typing SVG" />
 </a>
 
 </p>
