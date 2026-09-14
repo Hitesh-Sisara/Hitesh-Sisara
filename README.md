@@ -20,7 +20,7 @@ survive real traffic. Training a model is the easy bit — getting inference und
 searching millions of embeddings without falling over, and keeping the whole thing running
 at 3am is where the actual engineering lives.
 
-- Custom deep learning models, trained and deployed — CNNs, Siamese networks, PyTorch/CUDA
+- Custom ML models trained and deployed to production, in PyTorch on CUDA
 - Inference optimised to sub-100ms at scale with ONNX and TensorRT
 - Vector search over millions of embeddings with Milvus and Qdrant
 - RAG pipelines, event-driven infra with Kafka, multi-cloud on AWS and GCP with Terraform
@@ -38,7 +38,7 @@ people actually use. Always up for talking through a system someone is stuck on.
 **AI / ML**
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" height="42" />
-  &nbsp;<sub>CUDA · ONNX · TensorRT · ArcFace · FaceNet · RAG · MLOps</sub>
+  &nbsp;<sub>CUDA · ONNX · TensorRT · RAG · LLMs · MLOps</sub>
 </p>
 
 **Cloud & Infra**
@@ -60,7 +60,7 @@ people actually use. Always up for talking through a system someone is stuck on.
 ### Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hitesh-Sisara&theme=dark&hide_border=true&background=0D1117&ring=9B7AD4&fire=9B7AD4&currStreakLabel=9B7AD4&dates=8B949E&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Contribution streak" />
+  <img src="https://ghchart.rshah.org/9B7AD4/Hitesh-Sisara" alt="Contribution chart for the past year" width="100%" />
 </p>
 
 <p align="center">
