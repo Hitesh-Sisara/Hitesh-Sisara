@@ -1,7 +1,7 @@
 <h1 align="center">Hitesh Sisara</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9B7AD4&center=true&vCenter=true&width=560&lines=CTO+%40+Kamero+AI+Solutions;I+take+AI+from+prototype+to+production;Custom+models%2C+vector+search%2C+cloud+infra" alt="CTO at Kamero AI Solutions — I take AI from prototype to production" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9B7AD4&center=true&vCenter=true&width=580&lines=I+build+scalable+AI+systems;Custom+models%2C+vector+search%2C+cloud+infra;From+prototype+to+production" alt="I build scalable AI systems" /></a>
 </p>
 
 <p align="center">
@@ -13,21 +13,20 @@
 
 ---
 
-I'm an engineering leader who likes the unglamorous half of AI work: the part where a
-promising notebook has to survive real traffic. Currently CTO at **Kamero AI Solutions**,
-where I drive system design across Go, Python, React, and cloud infrastructure on AWS and GCP.
+I'm Hitesh, and I build scalable AI systems.
 
-I've trained and deployed custom deep learning models, built RAG workflows and large-scale
-vector search, and run event-driven pipelines in production. Alongside that I care about the
-team: clear architecture, honest code review, and shipping things people actually use.
+Mostly I like the unglamorous half of the work: the part where a promising notebook has to
+survive real traffic. Training a model is the easy bit — getting inference under 100ms,
+searching millions of embeddings without falling over, and keeping the whole thing running
+at 3am is where the actual engineering lives.
 
-- Sub-100ms face recognition inference at scale, via ONNX and TensorRT
+- Custom deep learning models, trained and deployed — CNNs, Siamese networks, PyTorch/CUDA
+- Inference optimised to sub-100ms at scale with ONNX and TensorRT
 - Vector search over millions of embeddings with Milvus and Qdrant
-- A CI/CD pipeline that builds and ships 80+ white-labelled Flutter apps to both stores
-- Seven years across enterprise consulting and an AI startup
+- RAG pipelines, event-driven infra with Kafka, multi-cloud on AWS and GCP with Terraform
 
-Happiest at the seam between research and production, and always up for talking through an
-architecture someone is stuck on.
+I work in Go, Python, and TypeScript, and I care about clear architecture and shipping things
+people actually use. Always up for talking through a system someone is stuck on.
 
 ### What I work with
 
