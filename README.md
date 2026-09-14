@@ -1,52 +1,73 @@
+<h1 align="center">Hitesh Sisara</h1>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+i+am+Hitesh" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9B7AD4&center=true&vCenter=true&width=560&lines=CTO+%40+Kamero+AI+Solutions;I+take+AI+from+prototype+to+production;Custom+models%2C+vector+search%2C+cloud+infra" alt="CTO at Kamero AI Solutions — I take AI from prototype to production" /></a>
 </p>
 
-I'm @Hitesh-Sisara, and I'm a Full Stack Developer with a strong passion for learning new things. I believe that the world of technology is constantly evolving, and I'm always striving to expand my knowledge and skills.
+<p align="center">
+  <a href="https://sisara.in/"><img src="https://img.shields.io/badge/sisara.in-9B7AD4?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/hitesh-sisara-59354a1b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/hitesh_sisara"><img src="https://img.shields.io/badge/@hitesh__sisara-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:sisarahitesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+---
 
-In addition to being a Full Stack Developer, I'm also exploring a variety of other topics to broaden my horizons. My interests include web development, artificial intelligence and more!
+I'm an engineering leader who likes the unglamorous half of AI work: the part where a
+promising notebook has to survive real traffic. Currently CTO at **Kamero AI Solutions**,
+where I drive system design across Go, Python, React, and cloud infrastructure on AWS and GCP.
 
-Feel free to reach out to me at sisarahitesh@gmail.com if you'd like to connect or collaborate.
+I've trained and deployed custom deep learning models, built RAG workflows and large-scale
+vector search, and run event-driven pipelines in production. Alongside that I care about the
+team: clear architecture, honest code review, and shipping things people actually use.
 
-```python
-#!/usr/bin/env python3
+- Sub-100ms face recognition inference at scale, via ONNX and TensorRT
+- Vector search over millions of embeddings with Milvus and Qdrant
+- A CI/CD pipeline that builds and ships 80+ white-labelled Flutter apps to both stores
+- Seven years across enterprise consulting and an AI startup
 
-__author__	= "Hitesh-Sisara"
-__copyright__   = f"Copyright (c) 2026 {__author__}"
-__license__ 	= "Private Domain"
+Happiest at the seam between research and production, and always up for talking through an
+architecture someone is stuck on.
 
-import subprocess
-res = subprocess.run(["python3" , "-c" , "print('Feel the Code not Write it')"],
-		capture_output=True, text=True
-		)
+### What I work with
 
-print("stdout:", res.stdout)	# Output
-if res.stderr != "" : print("stderr:", res.stderr)	# Error
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,ts,js,java,dart" alt="Go, Python, TypeScript, JavaScript, Java, Dart" height="42" />
+</p>
 
-```
+**AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" height="42" />
+  &nbsp;<sub>CUDA · ONNX · TensorRT · ArcFace · FaceNet · RAG · MLOps</sub>
+</p>
 
-<details>
-  <summary>:zap: Hitesh-Sisara GitHub Stats</summary>
-  <br>
-  <img align="left" alt="innovatorved GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hitesh-Sisara&show_icons=true&theme=cobalt&hide_border=true" /><br>
-</details>
+**Cloud & Infra**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,docker,cloudflare,githubactions" alt="AWS, GCP, Kubernetes, Terraform, Docker, Cloudflare, GitHub Actions" height="42" />
+</p>
 
-<img height="70px" src="https://skillicons.dev/icons?i=go,rust,flutter,react,nextjs,nodejs,javascript,typescript,python,git,github,aws,cloudflare,docker,githubactions," />
+**Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka" alt="PostgreSQL, Redis, Kafka" height="42" />
+  &nbsp;<sub>Milvus · Qdrant · Pinecone · OpenSearch · Couchbase</sub>
+</p>
 
+**Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,astro" alt="React, Next.js, Flutter, Tailwind, Astro" height="42" />
+</p>
 
-<a href="https://twitter.com/hitesh_sisara">
+### Contributions
 
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhitesh_sisara&style=social&logo=x&logoColor=black&label=%40Hitesh_Sisara&labelColor=black">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hitesh-Sisara&theme=dark&hide_border=true&background=0D1117&ring=9B7AD4&fire=9B7AD4&currStreakLabel=9B7AD4&dates=8B949E&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Contribution streak" />
+</p>
 
-</a>
-
-
-<a href="https://www.linkedin.com/in/hitesh-sisara-59354a1b4/">
-
-<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhitesh-sisara-59354a1b4%2F&style=social&logo=Linkedin&logoColor=blue&label=Hitesh%20Sisara&labelColor=blue">
-
-</a>
-
-
-
+<p align="center">
+  <sub>
+    <a href="https://sisara.in/">sisara.in</a> ·
+    <a href="mailto:sisarahitesh@gmail.com">sisarahitesh@gmail.com</a> ·
+    Ahmedabad, India
+  </sub>
+</p>
